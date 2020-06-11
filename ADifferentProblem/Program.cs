@@ -10,7 +10,7 @@ namespace ADifferentProblem
             // A Different Problem
             // https://open.kattis.com/problems/different
 
-            // solved but I get a Time Limit Exceeded error in kattis.com ???
+            // solved but I get a Time Limit Exceeded error in kattis.com ????
 
             List<int> answers = new List<int>();
             var mycount = 3;
